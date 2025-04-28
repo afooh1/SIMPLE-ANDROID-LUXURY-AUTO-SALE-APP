@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584271678110",
+    "project_id": "babatundeautos-91bf0",
+    "storage_bucket": "babatundeautos-91bf0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584271678110:android:7ebfb2a4450cb44d5a498f",
+        "android_client_info": {
+          "package_name": "com.example.babatundeautos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfFQxUqB-uDUHhY2mjbzWXm-kpQ284lJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
