@@ -1,0 +1,5 @@
+com.example.babatundeautos.test.app-core-1.6.1-0 /Users/user/.gradle/caches/8.10.2/transforms/cebe0918852ad9215d6c460ffdddd5cb/transformed/core-1.6.1/res
+com.example.babatundeautos.test.app-androidTest-1 /Users/user/Desktop/MOBILE APPLICATIONS/GameStop/app/build/generated/res/resValues/androidTest/debug
+com.example.babatundeautos.test.app-mergeDebugAndroidTestResources-2 /Users/user/Desktop/MOBILE APPLICATIONS/GameStop/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.babatundeautos.test.app-mergeDebugAndroidTestResources-3 /Users/user/Desktop/MOBILE APPLICATIONS/GameStop/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.babatundeautos.test.app-debugAndroidTest-4 /Users/user/Desktop/MOBILE APPLICATIONS/GameStop/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

@@ -1,0 +1,3 @@
+com.example.babatundeautos.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

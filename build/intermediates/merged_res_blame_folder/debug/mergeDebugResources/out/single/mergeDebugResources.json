@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/layout_activity_checkout.xml.flat",
+        "source": "com.example.babatundeautos.app-main-42:/layout/activity_checkout.xml"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/font_beth_ellen.ttf.flat",
+        "source": "com.example.babatundeautos.app-main-42:/font/beth_ellen.ttf"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.babatundeautos.app-main-42:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/font_bungee_inline.ttf.flat",
+        "source": "com.example.babatundeautos.app-main-42:/font/bungee_inline.ttf"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.babatundeautos.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.babatundeautos.app-main-42:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/font_bagel_fat_one.ttf.flat",
+        "source": "com.example.babatundeautos.app-main-42:/font/bagel_fat_one.ttf"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/drawable_signupbkg.png.flat",
+        "source": "com.example.babatundeautos.app-main-42:/drawable/signupbkg.png"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/layout_activity_product_detail.xml.flat",
+        "source": "com.example.babatundeautos.app-main-42:/layout/activity_product_detail.xml"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/font_baumans.ttf.flat",
+        "source": "com.example.babatundeautos.app-main-42:/font/baumans.ttf"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.babatundeautos.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/layout_item_cart.xml.flat",
+        "source": "com.example.babatundeautos.app-main-42:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/drawable_itemcarbkg.png.flat",
+        "source": "com.example.babatundeautos.app-main-42:/drawable/itemcarbkg.png"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/font_poppins_thin.xml.flat",
+        "source": "com.example.babatundeautos.app-main-42:/font/poppins_thin.xml"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.babatundeautos.app-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/font_poppins_extralight.ttf.flat",
+        "source": "com.example.babatundeautos.app-main-42:/font/poppins_extralight.ttf"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/font_aoboshi_one.ttf.flat",
+        "source": "com.example.babatundeautos.app-main-42:/font/aoboshi_one.ttf"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/font_rokkitt_semibold.ttf.flat",
+        "source": "com.example.babatundeautos.app-main-42:/font/rokkitt_semibold.ttf"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/drawable_checkoutbkg.png.flat",
+        "source": "com.example.babatundeautos.app-main-42:/drawable/checkoutbkg.png"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/drawable_logo.png.flat",
+        "source": "com.example.babatundeautos.app-main-42:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.babatundeautos.app-main-42:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.babatundeautos.app-main-42:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/layout_activity_login.xml.flat",
+        "source": "com.example.babatundeautos.app-main-42:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/font_poppins_semibold.ttf.flat",
+        "source": "com.example.babatundeautos.app-main-42:/font/poppins_semibold.ttf"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/font_roboto_bold.ttf.flat",
+        "source": "com.example.babatundeautos.app-main-42:/font/roboto_bold.ttf"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/layout_item_car.xml.flat",
+        "source": "com.example.babatundeautos.app-main-42:/layout/item_car.xml"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.babatundeautos.app-main-42:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/drawable_loginbkg.png.flat",
+        "source": "com.example.babatundeautos.app-main-42:/drawable/loginbkg.png"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/drawable_homebkg.png.flat",
+        "source": "com.example.babatundeautos.app-main-42:/drawable/homebkg.png"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/layout_activity_thank_you.xml.flat",
+        "source": "com.example.babatundeautos.app-main-42:/layout/activity_thank_you.xml"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/layout_activity_product.xml.flat",
+        "source": "com.example.babatundeautos.app-main-42:/layout/activity_product.xml"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.babatundeautos.app-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.babatundeautos.app-main-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.babatundeautos.app-main-42:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/font_cherry_cream_soda.ttf.flat",
+        "source": "com.example.babatundeautos.app-main-42:/font/cherry_cream_soda.ttf"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/xml_backup_rules.xml.flat",
+        "source": "com.example.babatundeautos.app-main-42:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/layout_activity_register.xml.flat",
+        "source": "com.example.babatundeautos.app-main-42:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.babatundeautos.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.babatundeautos.app-main-42:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.babatundeautos.app-main-42:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.babatundeautos.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/layout_activity_cart.xml.flat",
+        "source": "com.example.babatundeautos.app-main-42:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.babatundeautos.app-main-42:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.babatundeautos.app-main-42:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.babatundeautos.app-main-42:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/drawable_thankyoubkg.png.flat",
+        "source": "com.example.babatundeautos.app-main-42:/drawable/thankyoubkg.png"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.babatundeautos.app-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.babatundeautos.app-main-42:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/layout_activity_main.xml.flat",
+        "source": "com.example.babatundeautos.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.babatundeautos.app-debug-40:/font_vast_shadow.xml.flat",
+        "source": "com.example.babatundeautos.app-main-42:/font/vast_shadow.xml"
+    }
+]
